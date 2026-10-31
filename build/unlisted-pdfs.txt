@@ -1,0 +1,7 @@
+# PDFs kept in publications/ that are intentionally not listed on publications.html.
+# The generator does not warn about these. One filename per line; lines starting with # are ignored.
+2007-UWA-honoursThesis.pdf
+2012-CSSE-twitterPaper.pdf
+2013-UWA-mastersThesis.pdf
+2015-CISDC-tourRecOverview.pdf
+2017-UniMelb-phdThesis.pdf
